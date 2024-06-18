@@ -15,3 +15,4 @@ src/themes/BaseV1/assets/css/main.css.map
 .php-cs-fixer.cache
 docker-data
 public/assets
+public/file
